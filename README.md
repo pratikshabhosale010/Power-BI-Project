@@ -17,6 +17,9 @@ Unlock hidden patterns in transportation operations through interactive data vis
 Power BI	Report design & data visualization
 DAX	Metrics, KPIs, custom calculations
 Power Query	Data transformation & cleanup
+
+
+
 📊 Key Dashboard Sections
 🚚 Shipment Overview – Track total shipments, status, and trends
 ⏱ Delay Analysis – Identify delay causes and frequency
@@ -24,15 +27,21 @@ Power Query	Data transformation & cleanup
 💸 Cost Insights – Compare spending across shipments or vehicles
 📍 Geo View – Visualize location-based shipment data (optional)
 📁 File Included
+
+
 Project.pbix – Power BI report file containing:
 Data model
 Dashboard visuals
 DAX calculations
+
+
 🧠 Real-World Use Cases
 ✅ Fleet Optimization – Know which vehicles perform best
 ✅ Time Management – Spot where delays happen most
 ✅ Cost Control – Track high-spend shipments easily
 ✅ Data-Driven Planning – Plan future deliveries with confidence
+
+
 
 🚀 How to Run
 Download the .pbix file.
@@ -42,10 +51,14 @@ Use filters, visuals, and pages to explore insights!
 (Add a screenshot of the dashboard and rename as dashboard-preview.png in your repo)
 ![Dashboard Preview](dashboard-preview.png)
 
+
+
 👤 About Me
 [Bhosale Pratiksha]
 📍 Transportation & Logistics Data Enthusiast
 🔗 https://www.linkedin.com/in/pratiksha-bhosale-65b15a271/ | 💻 Portfolio | 📬 Email
+
+
 
 🌟 If you like it...
 Give it a ⭐ on GitHub or share with your network. Feedback, forks, and contributions are always welcome!
