@@ -1,18 +1,26 @@
 # Power-BI-Project
 
 🚛📈 Transportation Insights Dashboard | Power BI
+
+
 Unlock hidden patterns in transportation operations through interactive data visuals and real-time analytics. This project dives deep into logistics data to deliver clear, actionable insights for decision-makers.
 
 🎯 Goal: Analyze and optimize key transportation KPIs like delivery performance, delay trends, and vehicle efficiency using Power BI.
 
+
 🔍 What’s Inside?
+
+
 ✨ Visually-rich, interactive Power BI dashboard
 ✨ Slicers to filter by region, vehicle, shipment status & more
 ✨ Custom DAX measures for deep data storytelling
 ✨ Delay cause diagnostics and cost vs. distance analytics
 ✨ Clean and intuitive layout for smooth user experience
 
+
 🛠 Built With
+
+
 🧰 Tool	🔧 Purpose
 Power BI	Report design & data visualization
 DAX	Metrics, KPIs, custom calculations
@@ -22,6 +30,8 @@ Power Query	Data transformation & cleanup
 
 
 📊 Key Dashboard Sections
+
+
 🚚 Shipment Overview – Track total shipments, status, and trends
 ⏱ Delay Analysis – Identify delay causes and frequency
 🛣 Route Performance – Monitor which routes are efficient vs. costly
@@ -31,12 +41,15 @@ Power Query	Data transformation & cleanup
 
 
 Project.pbix – Power BI report file containing:
-Data model
-Dashboard visuals
-DAX calculations
+
+1.Data model
+2.Dashboard visuals
+3.DAX calculations
 
 
 🧠 Real-World Use Cases
+
+
 ✅ Fleet Optimization – Know which vehicles perform best
 ✅ Time Management – Spot where delays happen most
 ✅ Cost Control – Track high-spend shipments easily
@@ -45,6 +58,8 @@ DAX calculations
 
 
 🚀 How to Run
+
+
 Download the .pbix file.
 Open it using Power BI Desktop.
 Use filters, visuals, and pages to explore insights!
@@ -55,6 +70,8 @@ Use filters, visuals, and pages to explore insights!
 
 
 👤 About Me
+
+
 [Bhosale Pratiksha]
 📍 Transportation & Logistics Data Enthusiast
 🔗 https://www.linkedin.com/in/pratiksha-bhosale-65b15a271/ | 💻 Portfolio | 📬 Email
@@ -62,5 +79,6 @@ Use filters, visuals, and pages to explore insights!
 
 
 🌟 If you like it...
+
 Give it a ⭐ on GitHub or share with your network. Feedback, forks, and contributions are always welcome!
 
