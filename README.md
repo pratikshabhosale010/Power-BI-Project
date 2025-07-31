@@ -20,6 +20,7 @@ Power Query	Data transformation & cleanup
 
 
 
+
 📊 Key Dashboard Sections
 🚚 Shipment Overview – Track total shipments, status, and trends
 ⏱ Delay Analysis – Identify delay causes and frequency
